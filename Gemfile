@@ -3,4 +3,5 @@ source 'https://rubygems.org' do
   gem 'rspec-given'
   gem 'flog'
   gem 'rake'
+  gem 'minitest'
 end
